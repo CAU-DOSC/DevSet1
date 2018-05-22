@@ -91,6 +91,7 @@
   이를 해결하여 성공할 경우엔
 
    - 성공할 경우
+   
    ![JUnit_testCase_run_success](/assets/JUnit_testCase_run_success.png)
 
    >위와 같은 화면이 출력되며 유닛 테스트가 성공했음을 확인할 수 있습니다.
