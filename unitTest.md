@@ -84,8 +84,10 @@
    > test클래스를 Run하고 결과를 확인합니다.
 
    - 실패할 경우
-    ![JUnit_testCase_run_failure](/assets/JUnit_testCase_run_failure.png)
-  > 빨간색 바와 아래 Failure Trace에 처음으로 테스트한 assertEquals 함수의 세번째 파라미터 값과 내 예상결과값 그리고 실제 결과값이 나오게 됩니다.
+
+  ![JUnit_testCase_run_failure](/assets/JUnit_testCase_run_failure.png)
+
+  gi> 빨간색 바와 아래 Failure Trace에 처음으로 테스트한 assertEquals 함수의 세번째 파라미터 값과 내 예상결과값 그리고 실제 결과값이 나오게 됩니다.
   이를 해결하여 성공할 경우엔
 
    - 성공할 경우
@@ -93,4 +95,4 @@
 
    >위와 같은 화면이 출력되며 유닛 테스트가 성공했음을 확인할 수 있습니다.
 
-  -끝 \^!o^
+  -끝 \^o^
